@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayush-1510/LeetHub/tree/master/0075-sort-colors) |
+| [0792-binary-search](https://github.com/ayush-1510/LeetHub/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayush-1510/LeetHub/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/ayush-1510/LeetHub/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
