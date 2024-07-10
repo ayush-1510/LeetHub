@@ -46,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ayush-1510/LeetHub/tree/master/0074-search-a-2d-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ayush-1510/LeetHub/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## String
+|  |
+| ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ayush-1510/LeetHub/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## Counting
+|  |
+| ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ayush-1510/LeetHub/tree/master/1890-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
